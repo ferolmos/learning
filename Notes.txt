@@ -1,0 +1,12 @@
+
+About overloading
+-----------------------------------------------------
+A method's signature is its name and parameters types
+
+void Foo(int number)
+int Foo(int position)
+//this generates compile-time error
+
+void Foo(int x)
+void Foo(ref int x) //OK so far
+void Foo(out int x) //ref & out cannot coexist

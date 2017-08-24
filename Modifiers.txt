@@ -1,0 +1,41 @@
+
+
+Allowed in Fields
+-------------------------------------------------------
+Static Modifier ->	static
+
+Access Modifier -> public internal 	private protected
+
+Inheritance Modifier -> new
+
+Unsafe code Modifier -> unsafe
+
+Read-only Modifier -> readonly
+
+Threading Modifier -> volatile
+-------------------------------------------------------
+-------------------------------------------------------
+
+Allowed in Methods
+-------------------------------------------------------
+Static Modifier ->	static
+
+Access Modifier -> public internal 	private protected
+
+Inheritance Modifier -> new virtual abstract override sealed
+
+Partial Modifier -> partial
+
+Unsafe code Modifier -> unsafe extern
+
+Asynchronous code Modifier -> async
+-------------------------------------------------------
+-------------------------------------------------------
+
+Allowed in instance Constructor
+-------------------------------------------------------
+Access Modifier -> public internal 	private protected
+
+Unsafe code Modifier -> unsafe extern
+-------------------------------------------------------
+-------------------------------------------------------

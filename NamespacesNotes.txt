@@ -1,0 +1,11 @@
+
+
+global is the root of all namespaces
+
+:: is used for namespace alias qualification
+
+global::
+
+extern 
+
+allows to reference two tyupes with the same fully quilified name (this is an unusual scenario and both types have to come from different assemblies) 
